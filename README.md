@@ -87,9 +87,3 @@ The notebook generates:
 
 ---
 ---
-
-## 👩‍💻 Author
-
-**Fereshteh Sefarkhani**  
-📧 [fereshteh.safarkhani@gmail.com](mailto:fereshteh.safarkhani@gmail.com)  
-🌍 Berlin, Germany
