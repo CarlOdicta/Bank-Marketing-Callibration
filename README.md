@@ -86,14 +86,6 @@ The notebook generates:
 - All preprocessing and modeling steps are fully transparent and reproducible in the notebook.  
 
 ---
-
-## 📚 Citation
-
-If referencing this work, please cite:
-
-> **Safarkhani, F. M. (2025).** *Well-Calibrated and Interpretable Propensity Models with Calibration and SHAP for Bank Marketing.*  
-> MSc Dissertation, GISMA University of Applied Sciences.
-
 ---
 
 ## 👩‍💻 Author
